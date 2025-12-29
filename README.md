@@ -1,7 +1,7 @@
 # python-command-line-compressor
 Python command line application that compresses specified files.
 
-(.venv) ➜  clcomp git:(main) ✗ ./clcomp.py -h   
+```
 usage: clcomp.py [-h] [-v] files [files ...]
 
 Compress files from the command line
@@ -18,3 +18,4 @@ Examples:
   clcomp.py *.txt
   clcomp.py file1.txt file2.txt
   clcomp.py data/*.log
+```
